@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785536049774",
+    "project_id": "onlinequizapp-6d816",
+    "storage_bucket": "onlinequizapp-6d816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785536049774:android:a06d1a0a0f7f015280fc7f",
+        "android_client_info": {
+          "package_name": "com.sveri.offlinequizgameapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785536049774-udbsclustqb4582kolqb02hovir3q0fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtRYDLIf2-9g-4PI_itqdKrMgUxnECxyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785536049774-udbsclustqb4582kolqb02hovir3q0fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

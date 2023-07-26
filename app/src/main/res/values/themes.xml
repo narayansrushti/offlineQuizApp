@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="Theme.OfflineQuizGameApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#fe23</item>
+        <item name="colorPrimaryVariant">#FF5722</item>
+        <item name="colorOnPrimary">#fe2b</item>
+
+        <item name="colorSecondary">#00BCD4</item>
+        <item name="colorSecondaryVariant">#FFCCBC</item>
+        <item name="colorOnSecondary">#757575</item>
+        <item name="android:statusBarColor" tools:targetApi = "1">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>
